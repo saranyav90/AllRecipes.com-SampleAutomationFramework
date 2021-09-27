@@ -1,0 +1,7 @@
+18:04:01.152 [TestNG-tests-1] INFO  resources.Base - Navigated to Home Page 
+18:04:23.089 [TestNG-tests-1] INFO  resources.Base - Successfully navigated to Search Results.
+18:04:39.946 [TestNG-tests-1] INFO  resources.Base - Closed browser
+18:04:40.291 [TestNG-tests-1] INFO  resources.Base - Closed browser
+19:05:08.860 [TestNG-tests-1] INFO  resources.Base - Driver is initialised
+19:05:33.961 [TestNG-tests-1] INFO  resources.Base - Navigated to Home Page 
+19:05:39.025 [TestNG-tests-1] INFO  resources.Base - Driver is initialised
