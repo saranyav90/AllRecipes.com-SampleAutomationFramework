@@ -8,3 +8,5 @@ Listeners Class which  implements the iTestListener contains methods to capture 
 The data.properties file stores the information that remains static throughout the framework such as browser-specific information, application URL, screenshots path, etc.
 In testNG.xml,  grouping of tests, parallel execution, cross browser testing etc are achieved.
 ExtentReports were used for reporting purpose
+
+Please refer to AllRecipes folder for code.
